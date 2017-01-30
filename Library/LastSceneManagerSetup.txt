@@ -1,0 +1,4 @@
+sceneSetups:
+- path: D:/Game Stuff/Mothership/Mothership/Assets/title screen.unity
+  isLoaded: 1
+  isActive: 1
